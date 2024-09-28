@@ -1,4 +1,3 @@
-
 /*Để sắp xếp tăng dần một mảng A gồm n phần tử a1, a2,..., an, thuật toán sắp xếp trộn (MergeSort) áp dụng chia đôi mảng A thành hai mảng B và C, sắp xếp B, C và sau đó trộn B và C cho ra mảng A tăng dần.
 
 Ví dụ minh họa phương pháp trộn : - Mảng B gồm 4 phần tử b1, b2, b3, b4 đã sắp tăng dần: 1 2 4 6 - Mảng C gồm 4 phần tử c1, c2, c3, c4 đã sắp tăng dần: 3 5 8 9 Nếu trộn hai mảng trên theo dãy thứ tự trộn b1, b2, c1, b3, c2, b4, c3, c4 thì có được mảng sắp là 1 2 3 4 5 6 8 9. Cho một mảng B gồm n phần tử và mảng C gồm m phần tử. Hãy in ra dãy thứ tự trộn sao cho nếu áp dụng dãy thứ tự trộn trên thì mảng kết quả được sắp xếp tăng dần.
