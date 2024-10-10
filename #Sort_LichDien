@@ -13,6 +13,7 @@ Giới hạn
 Đầu ra
 Số nguyên xác định số lượng đoàn nhiều nhất mà Lệ Rơi có thể tham gia.*/
 
+
 #include<bits/stdc++.h>
 #include<iostream>
 #include<iomanip>
