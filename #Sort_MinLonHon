@@ -1,3 +1,5 @@
+//Tìm số lớn hơn tại chữ số a[i] và thay vào vị trí i đó nhưng số lớn nhất thì ký hiệu là "_" do không còn số nào lớn hơn để thay thế
+
 #include<bits/stdc++.h>
 #include<iostream>
 #include<iomanip>
