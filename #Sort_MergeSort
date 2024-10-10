@@ -17,6 +17,7 @@ Giới hạn
 Đầu ra
 In ra dãy là thứ tự trộn, trong trường hợp trong 2 mảng b và c có phần tử có cùng giá trị thì in ra phần tử ở mảng b trước.*/
 
+
 #include <bits/stdc++.h>
 #include <iostream>
 #include <iomanip>
