@@ -17,6 +17,7 @@ Giới hạn
 Đầu ra
 In ra số lượng số còn thiếu*/
 
+
 #include <bits/stdc++.h>
 #include <iostream>
 #include <iomanip>
