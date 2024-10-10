@@ -15,6 +15,7 @@ Giới hạn
 Đầu ra
 Số nguyên xác định số lít sữa nhiều nhất mà anh Bo có thể vắt được.*/
 
+
 #include <bits/stdc++.h>
 #include <iostream>
 #include <iomanip>
