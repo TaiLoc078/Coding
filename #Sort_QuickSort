@@ -1,3 +1,5 @@
+//Phụ thuộc vào pivot, thuật toán nhanh nhưng không ổn định
+
 #include <bits/stdc++.h>
 #include <iostream>
 #include <iomanip>
