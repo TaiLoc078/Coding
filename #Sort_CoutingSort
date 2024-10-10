@@ -1,3 +1,5 @@
+//Bài toán đếm cộng dồn nhưng giới hạn về mặt số lượng phần tử bên trong mảng
+
 #include <bits/stdc++.h>
 #include <iostream>
 #include <iomanip>
