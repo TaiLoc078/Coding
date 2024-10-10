@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 /*Vanya đi bộ vào ban đêm dọc theo một con đường thẳng dài có độ dài l, được thắp sáng bởi n chiếc đèn lồng. Xét hệ trục tọa độ với điểm đầu của đường phố tương ứng với điểm 0 và điểm cuối của nó tương ứng với điểm l. Khi đó đèn lồng thứ i ở điểm a[i]. Đèn lồng chiếu sáng tất cả các điểm trên đường phố cách nó nhiều nhất là d, trong đó d là một số dương, chung cho tất cả các đèn lồng. Vanya tự hỏi: bán kính ánh sáng tối thiểu d mà những chiếc đèn lồng phải có để thắp sáng cả con phố?
 
 Gợi ý : Sort => Xét 2 đèn lồng đứng cạnh nhau => khoảng cách giữa 2 đèn này sẽ là 2 lần bán kính. Xét cả khoảng cách giữa đèn lồng đầu tiên tới đầu đường (1d) và từ đèn lồng cuối tới cuối đường (d). Chọn ra bán kinh lớn nhất.
@@ -18,6 +17,7 @@ In bán kính ánh sáng tối thiểu d, cần thiết để chiếu sáng cả
 
 In ra kết quả với độ chính xác là 10 số sau dấu phây*/
 
+#include<bits/stdc++.h>
 #include<iostream>
 #include<iomanip>
 #include<math.h>
