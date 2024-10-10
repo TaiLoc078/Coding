@@ -15,6 +15,7 @@ Giới hạn
 Đầu ra
 In một số nguyên: số lượng thuyền gondola tối thiểu.*/
 
+
 #include<bits/stdc++.h>
 #include<iostream>
 #include<iomanip>
