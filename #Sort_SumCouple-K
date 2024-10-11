@@ -16,8 +16,7 @@ Giới hạn
 0<=a[i]<=10^6
 
 Đầu ra
-In ra số lượng cặp số có tổng bằng k
-*/
+In ra số lượng cặp số có tổng bằng k*/
 
 #include <bits/stdc++.h>
 
