@@ -14,7 +14,6 @@ In ra ma trận sau khi hoán vị 2 đường chéo
 */
 
 #include<bits/stdc++.h>
-
 using namespace std;
 
 int main(){
