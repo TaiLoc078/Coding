@@ -11,7 +11,7 @@
 
   https://www.learncpp.com/
 
-- ✨ special ✨ Chúc các bạn học tốt!
+- ✨ Special ✨ Chúc các bạn học tốt!
 
 <!---
 TaiLoc078/TaiLoc078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
