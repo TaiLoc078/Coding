@@ -20,7 +20,6 @@ In ra ma trận tích của A và B
 */
 
 #include<bits/stdc++.h>
-
 using namespace std;
 
 int main(){
