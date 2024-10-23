@@ -12,7 +12,7 @@
   https://www.learncpp.com/
 
 - ✨ Special ✨ Chúc các bạn học tốt!
-![IMAGE](https://www.pinterest.com/pin/notion--2674081021258761/)
+![IMAGE](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif)
 
 <!---
 TaiLoc078/TaiLoc078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
